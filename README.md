@@ -1,6 +1,21 @@
-# Lab-3.2-osTicket-Post-Installation
-In this home lab, I will be performing Sysadmin tasks on osTicket. I will be using both admin and user panels to create, configure, and assign roles and ticket settings.
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
+<h1>osTicket - Post-Install Configuration</h1>
+In this home lab, I will perform Sysadmin tasks on osTicket. I will use both admin and user panels to create, configure, and assign roles and ticket settings.<br />
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>Configuration Steps</h2>
 
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php 
