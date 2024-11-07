@@ -71,4 +71,5 @@ Equipment Request
 Password Reset
 Other ![image](https://github.com/user-attachments/assets/5764346d-0eec-445a-a1a7-a6531220c564)
 
-
+<h2>Takeaways and Key Skills Developed</h2>
+In this project, I configured osTicket by managing user roles, departments, and ticket settings. I set up roles to group permissions, defined departments for ticket visibility, and created teams by combining agents from different departments. I required user registration before ticket creation, added agents and users, and set up SLAs for different severity levels. Additionally, I created help topics to categorize tickets. This hands-on experience helped me learn to manage user roles, workflows, and settings in a ticketing system to improve help desk efficiency.
